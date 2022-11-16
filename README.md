@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Sadiqur Rahman
+#### Full Stack Web Developer.
+![Full Stack Web Developer.](https://www.linkedin.com/in/sadiqur-rahman-209863176/overlay/background-image/)
 
-<!--
-**sadiqss/sadiqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, This is Sadiqur Rahman from UK and a professional full stack web developer. I love to learn languages and different framework. Have experience on working JavaScript, React, MongoDB, Monogosse etc. I have also experience of working on C languaage.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS/MongoDB/Mongosse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
