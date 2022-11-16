@@ -1,4 +1,4 @@
-### Hi there 👋, Sadiqur Rahman
+### Sadiqur Rahman
 #### Full Stack Web Developer.
 ![Full Stack Web Developer.](https://www.linkedin.com/in/sadiqur-rahman-209863176/overlay/background-image/)
 
@@ -12,3 +12,5 @@ Skills: REACT / JS / HTML / CSS/MongoDB/Mongosse
 
 
 
+
+![Sadiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiqss)
